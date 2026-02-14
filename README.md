@@ -23,3 +23,4 @@ Simple on-chain escrow contract on Stacks blockchain.
 
 1. Go to frontend folder:
 2026-02-14 21:14:59 - added test case
+2026-02-14 21:15:10 - added test case
