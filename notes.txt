@@ -143,3 +143,4 @@
 2026-02-18 15:38:21 - adjusted modifier
 2026-02-18 15:38:32 - added test case
 2026-02-18 15:39:02 - added test case
+2026-02-18 15:39:11 - refined logic
