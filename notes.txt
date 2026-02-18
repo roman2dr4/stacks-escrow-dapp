@@ -152,3 +152,4 @@
 2026-02-18 15:41:06 - adjusted modifier
 2026-02-18 15:41:25 - added test case
 2026-02-18 15:42:29 - adjusted modifier
+2026-02-18 15:42:39 - refined logic
