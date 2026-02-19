@@ -168,3 +168,4 @@
 2026-02-19 15:51:15 - adjusted modifier
 2026-02-19 15:51:37 - adjusted modifier
 2026-02-19 15:51:44 - added test case
+2026-02-19 15:51:53 - refined logic
