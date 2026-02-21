@@ -203,3 +203,4 @@
 2026-02-21 15:43:43 - added test case
 2026-02-21 15:44:01 - adjusted modifier
 2026-02-21 15:44:46 - added test case
+2026-02-21 15:44:58 - refined logic
