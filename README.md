@@ -261,3 +261,4 @@ Simple on-chain escrow contract on Stacks blockchain.
 2026-02-24 16:29:53 - adjusted modifier
 2026-02-24 16:30:21 - added test case
 2026-02-24 16:30:32 - added test case
+2026-02-24 16:31:00 - adjusted modifier
