@@ -295,3 +295,4 @@
 2026-02-26 11:15:42 - adjusted modifier
 2026-02-26 11:16:10 - adjusted modifier
 2026-02-26 11:17:01 - adjusted modifier
+2026-02-26 11:17:52 - refined logic
